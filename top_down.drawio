@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="TLZdQ7NI8fvDUWU9n21L" name="Page-1">
-        <mxGraphModel dx="834" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="690" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -38,7 +38,7 @@
                     <mxGeometry x="90" y="220" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="&lt;span style=&quot;font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 14.6667px ; text-align: left&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;calculate circumference = tau * radius&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="310" y="220" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="290" y="220" width="160" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="outputs circumference" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="530" y="220" width="120" height="60" as="geometry"/>
